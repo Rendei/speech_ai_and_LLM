@@ -10,3 +10,5 @@ seaborn
 jupytext
 nbconvert
 ipykernel
+sacrebleu
+nltk

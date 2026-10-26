@@ -1,0 +1,5 @@
+﻿модель,стадия,BLEU,METEOR ×100,"средняя длина ответа, слов"
+Decoder-only (SmolLM2-360M-Instruct),исходная модель (zero-shot),2.7,18.96,21.3
+Decoder-only (SmolLM2-360M-Instruct),дообученная модель,10.7,29.06,14.9
+Encoder-decoder (Flan-T5-base),исходная модель (zero-shot),1.65,12.12,7.2
+Encoder-decoder (Flan-T5-base),дообученная модель,11.32,29.33,14.8
